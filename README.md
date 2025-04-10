@@ -1,6 +1,6 @@
 # (2023) Data Mining of Real Estate in Moscow 
 **Project Type:**  Freelance Project  
-**Programming Language:** Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)  
+**Programming Language:** Python 3 (XGBoost, scikit-learn, BeautifulSoup, CloudScraper, NLP regex)  
 **Project Сode (main scripts):** [Parser](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb); [ML Insight Extractor](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)   
 <!--- **Project Full Description:** [Presentation](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/EN.pdf) --->
 
@@ -29,7 +29,7 @@
 The first reason is essentially an indicator of the quality of the algorithm. Some unwanted ads should be relatively cheap in terms of available factors (large warehouse for ex.). Dilapidated housing can often be identified only by appearance. Increasing filters by year of construction leads to a significant reduction in dilapidated housing, but greatly reduces the volume of insights. The list also includes ads from scammers, which also requires manual control (at least it is necessary to ring the ads).
 
 ![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
-Geographic clusters of commercial advertisements (structures) CIAN in Moscow
+Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)
 
 
 
