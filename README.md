@@ -22,4 +22,7 @@
 
 **Operational Considerations:**  
 * Model sensitivity to market-specific filters requiring domain knowledge for optimal configuration  
-* Trade-off analysis between listing quality (construction year filters) and opportunity volume  
+* Trade-off analysis between listing quality (construction year filters) and opportunity volume
+
+  ![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
+Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)
