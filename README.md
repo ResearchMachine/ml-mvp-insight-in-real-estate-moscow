@@ -3,8 +3,9 @@
 **Programming Language:** Python 3 (XGBoost, scikit-learn, BeautifulSoup, CloudScraper, NLP regex)  
 **Core Components:** [Data Pipeline](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb) | [Valuation Engine](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)  
 
+
 ### I. Project Objectives
-* Developed automated web scraping pipeline for CIAN.ru commercial property listings with structured data output
+* Developed automated web scraping pipeline for CIAN.ru commercial property listings with structured data output in special segment (NDA)
 * Conducted comprehensive exploratory analysis of Moscow's commercial real estate market dynamics
 * Designed and validated an algorithmic valuation approach in collaboration with domain experts
 
