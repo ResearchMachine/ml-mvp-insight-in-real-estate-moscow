@@ -1,6 +1,6 @@
 # (2023) Data Mining of Real Estate in Moscow  
 **NDA:** segment parameters, property links  
-**Project Type:** Freelance Data Science 
+**Project Type:** Freelance Data Science   
 **Programming Language:** Python 3 (XGBoost, scikit-learn, BeautifulSoup, CloudScraper, NLP regex)  
 **Core Components:** [Data Pipeline](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb) | [Valuation Engine](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)  
 
