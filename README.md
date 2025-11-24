@@ -26,7 +26,7 @@
   ![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
 **Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)**
 
-<img width="633" height="207" alt="image" src="https://github.com/user-attachments/assets/58d4686f-3f84-41ef-bfa2-5701d5911e7d" />
+<img width="533" height="307" alt="image" src="https://github.com/user-attachments/assets/58d4686f-3f84-41ef-bfa2-5701d5911e7d" />
 
 
 
