@@ -1,4 +1,4 @@
-# (2023) Data Mining of Real Estate in Moscow  
+# (2023) Data Mining of Real Estate in Moscow (Part of Commercial Segment)  
 **NDA:** segment parameters, property links  
 **Project Type:** Freelance Data Science   
 **Programming Language:** Python 3 (XGBoost, scikit-learn, BeautifulSoup, CloudScraper, NLP regex)  
@@ -7,7 +7,6 @@
 
 ### I. Project Objectives
 * Developed automated web scraping pipeline for CIAN.ru commercial property listings with structured data output in special segment (NDA)
-* Conducted comprehensive exploratory analysis of Moscow's commercial real estate market dynamics
 * Designed and validated an algorithmic valuation approach in collaboration with domain experts
 
 ### II. Key Achievements
@@ -19,12 +18,9 @@
 ### III. Technical Implementation  
 **Valuation Algorithm Methodology:**  
 * Price prediction model trained on market-average segment (XGBoost regression) with subsequent anomaly detection via residual analysis (price_fact - price_pred)  
-* Feature engineering limited to professional valuation factors (property characteristics, geospatial features) to prevent overfitting on listing metadata  
-* Implemented quality control mechanisms for problematic listings (fraudulent, distressed properties) requiring expert review  
+* Feature engineering limited to professional valuation market factors (no user actions, only property characteristics, geospatial features, and etc.) to prevent overfitting of prediction model 
+* Model sensitivity to market-specific filters requiring domain knowledge for optimal configuration 
 
-**Operational Considerations:**  
-* Model sensitivity to market-specific filters requiring domain knowledge for optimal configuration  
-* Trade-off analysis between listing quality (construction year filters) and opportunity volume
 
   ![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
 **Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)**
