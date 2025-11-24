@@ -21,12 +21,13 @@
 * Feature engineering limited to professional valuation market factors (no user actions, only property characteristics, geospatial features, and etc.) to prevent overfitting of prediction model 
 * Model sensitivity to market-specific filters requiring domain knowledge for optimal configuration 
 
+**Solution Code:** [Data Pipeline](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb) | [Valuation Engine](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)  
 
   ![image](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/assets/70639823/67974aa5-54b5-41b3-a3f4-8258d3fea1e1)  
 **Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)**
 
 
-**Solution Code:** [Data Pipeline](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb) | [Valuation Engine](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)  
+
 
   ## License
 
