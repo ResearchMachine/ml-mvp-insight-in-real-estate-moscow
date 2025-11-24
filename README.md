@@ -24,6 +24,7 @@
 **Solution Code:** [Data Pipeline](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow/blob/main/preprocessing/run_preprocessing.ipynb) | [Valuation Engine](https://github.com/ResearchMachine/ml-mvp-insight-in-real-estate-moscow/blob/main/modeling/run_modeling_clean.ipynb)  
 
 <img width="533" height="307" alt="image" src="https://github.com/user-attachments/assets/58d4686f-3f84-41ef-bfa2-5701d5911e7d" /> 
+
 **Figure: Geographic distribution of commercial properties in Moscow (CIAN dataset)**
 
 
