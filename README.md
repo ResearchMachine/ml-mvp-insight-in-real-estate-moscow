@@ -1,4 +1,4 @@
-# (2023) Data Mining of Real Estate in Moscow (Part of Commercial Segment)  
+# (2023) PoC for Real Estate Insights in Moscow (Part of Commercial Segment)  
 **NDA:** segment parameters, property links  
 **Project Type:** Freelance Data Science   
 **Coding Language:** Python 3 (XGBoost, scikit-learn, BeautifulSoup, CloudScraper, NLP regex)  
